@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/canvas-tree-playground/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/canvas-tree-playground/static/js/main.05558c59.chunk.js",
+    "main.js.map": "/canvas-tree-playground/static/js/main.05558c59.chunk.js.map",
+    "runtime-main.js": "/canvas-tree-playground/static/js/runtime-main.298f0223.js",
+    "runtime-main.js.map": "/canvas-tree-playground/static/js/runtime-main.298f0223.js.map",
+    "index.html": "/canvas-tree-playground/index.html",
+    "precache-manifest.834814430056e129a453f31b2c62aa3e.js": "/canvas-tree-playground/precache-manifest.834814430056e129a453f31b2c62aa3e.js",
+    "service-worker.js": "/canvas-tree-playground/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/canvas-tree-playground/static/css/main.5ecd60fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.298f0223.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.05558c59.chunk.js"
+  ]
+}
